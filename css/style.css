@@ -1,0 +1,109 @@
+body{
+	margin: 0;
+	text-align: center ;
+	font-family: fantasy;
+}
+
+h1{
+	margin: 0;
+	color: darkgoldenrod;
+}
+
+p {
+
+	color: goldenrod;
+}
+
+/************class**********/
+
+.top_container {
+
+	background-color: #8DDFCB;
+	position: relative;
+	padding top: 100px;
+	height: 100vh;
+}
+ 
+.middle_container {
+	background-color: red;
+	width: 100px;
+	height: 100px;
+	position: absolute;
+	:4px ;
+/*	display: inline-block;*/
+	
+}
+
+.bottom_container {
+	background-color: blue;
+	width: 100px;
+	height: 100px;
+    position: absolute;
+	left:100px ;
+	top: 100px;
+/*	display: inline-block;*/
+
+}
+
+	
+.pro {
+	text-decoration:underline; 
+}
+
+.green {
+	background-color: green;
+	width: 100px;
+	height: 100px;
+    position: absolute;
+    left: 200px;
+    top: 200px;
+/*    display: inline-block;   */
+}
+
+.yellow {
+	background-color: yellow;
+	width: 100px;
+	height: 100px;
+	position: absolute;
+	left: 300px;
+	top: 300px;
+/*	display: inline-block;*/
+}
+
+.pink {
+background-color: pink;
+	width: 100px;
+	height: 100px;
+	position:absolute;
+	left: 400px;
+	top: 400px;
+/*	display: inline-block;*/
+
+}
+
+/*clouds*/
+.bottom {
+
+	position: absolute;
+	top: px;
+	right: 300px;
+	width: 33vw;
+	bottom: 30px;
+}
+
+.top {
+
+	position: relative;
+	right: 200px;
+	width: 40vw;
+	height: vw;
+}
+
+.mountain {
+	width: 100vw;
+	height: 50vh;
+}
+.color_container {
+position: relative;
+
+}
